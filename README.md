@@ -1,6 +1,6 @@
 # Image Resizer
 
-Resize multiple image of a folder automatically
+Resize multiple (jpg) image of a folder automatically
 
 ### Installing
 
